@@ -37,6 +37,8 @@ My work covers the full B2B spectrum: manufacturing, wholesale, distribution, re
 
 **Selected work**
 
+🔗 [UCP Gateway](https://github.com/GetMomentumToday/ucp-gateway) — Universal Commerce Protocol middleware connecting any e-commerce store to any AI agent. Built-in adapters for Magento, Shopware, and Shopify with full checkout flow, multi-tenant routing, and UCP spec compliance.
+
 📘 [AdobeCommercePreparingToCertification](https://github.com/artemii-karkusha/AdobeCommercePreparingToCertification) — structured knowledge base for Adobe Commerce architecture and the AD0-E717 certification. 3.5k+ stars across my repositories.
 
 🧩 [DesignPatterns](https://github.com/artemii-karkusha/DesignPatterns) — GoF patterns in PHP, grounded in real Magento and Symfony usage.
