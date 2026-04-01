@@ -37,7 +37,13 @@ My work covers the full B2B spectrum: manufacturing, wholesale, distribution, re
 
 **Selected work**
 
-🔗 [UCP Gateway](https://github.com/GetMomentumToday/ucp-gateway) — Universal Commerce Protocol middleware connecting any e-commerce store to any AI agent. Built-in adapters for Magento, Shopware, and Shopify with full checkout flow, multi-tenant routing, and UCP spec compliance.
+🔗 [Omnix Gateway](https://github.com/OmnixHQ/omnix-gateway) — Universal Commerce Protocol Gateway — connect any e-commerce store to any AI agent. Supports Magento, Shopware, and Shopify out of the box.
+
+🤖 [Omnix Agent](https://github.com/OmnixHQ/omnix-agent) — AI shopping agent — Claude + UCP tools, SSE streaming, Chat UI.
+
+📦 [UCP JS SDK](https://github.com/OmnixHQ/ucp-js-sdk) — UCP spec types and Zod schemas — runtime-validated TypeScript types for the Universal Commerce Protocol.
+
+🔌 [UCP Client](https://github.com/OmnixHQ/ucp-client) — Capability-aware TypeScript client for any UCP-compliant server — gives AI agents only the tools their connected server supports.
 
 📘 [AdobeCommercePreparingToCertification](https://github.com/artemii-karkusha/AdobeCommercePreparingToCertification) — structured knowledge base for Adobe Commerce architecture and the AD0-E717 certification.
 
