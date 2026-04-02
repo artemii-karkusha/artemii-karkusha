@@ -1,7 +1,20 @@
 <div align="center">
 
+<!-- TODO: Add your cartoon avatar to assets/avatar.png — this image will show broken until the file exists -->
+<img src="assets/avatar.png" alt="Artemii Karkusha" width="180"/>
+
 <!-- Custom SVG Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:d4a843&height=220&section=header&text=Artemii%20Karkusha&fontSize=42&fontColor=e8e6e3&fontAlignY=35&desc=Senior%20Solution%20Architect%20%7C%20Commerce%20Integration%20%7C%20UCP%20Protocol%20Designer&descSize=16&descColor=8a8a8e&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/artemii-karkusha"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4A843&center=true&vCenter=true&width=500&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert;Building+Omnix" alt="Typing SVG" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=artemii-karkusha&color=d4a843&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/artemii-karkusha?style=for-the-badge&color=d4a843&labelColor=0d1117" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/artemii-karkusha?style=for-the-badge&color=d4a843&labelColor=0d1117" alt="GitHub stars"/>
+
+<br/><br/>
 
 [![Website](https://img.shields.io/badge/integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemiy-karkusha/)
@@ -22,30 +35,51 @@ I write and consult on integration architecture at [integration-maestro.com](htt
 
 ---
 
-## 🔭 Currently
+## Currently
 
-- **Architecting** a PHP-to-Node.js microservices migration (GraphQL Gateway → full platform transition)
-- **Building** [Omnix](https://getomnix.dev) — the universal adapter for commerce × AI
+- **Architecting** a PHP-to-Node.js microservices migration (GraphQL Gateway -> full platform transition)
+- **Building** [Omnix](https://getomnix.dev) — the universal adapter for commerce x AI
 - **Designing** the Universal Commerce Protocol (UCP) specification
 - **Integrating** MCP servers with Infor/Sirius ERP for B2B distribution
 - **Learning** advanced GraphQL federation, Symfony 7, and distributed systems patterns
 
 ---
 
-## 🏗️ Omnix Ecosystem
+## Omnix Ecosystem
 
 > **Omnix** — Agentic commerce middleware connecting Magento, Shopware, Shopify, SAP, and custom backends to AI agents through the Universal Commerce Protocol.
 
-| Product | Description | Link |
-|---------|-------------|------|
-| **Omnix Gateway** | Universal Commerce Protocol Gateway — connect any store to any AI agent | [![GitHub](https://img.shields.io/github/stars/OmnixHQ/omnix-gateway?style=flat-square&color=d4a843)](https://github.com/OmnixHQ/omnix-gateway) |
-| **Omnix Agent** | AI shopping agent — Claude + UCP tools, SSE streaming, Chat UI | [![GitHub](https://img.shields.io/github/stars/OmnixHQ/omnix-agent?style=flat-square&color=d4a843)](https://github.com/OmnixHQ/omnix-agent) |
-| **UCP JS SDK** | Runtime-validated TypeScript types and Zod schemas for UCP | [![GitHub](https://img.shields.io/github/stars/OmnixHQ/ucp-js-sdk?style=flat-square&color=d4a843)](https://github.com/OmnixHQ/ucp-js-sdk) |
-| **UCP Client** | Capability-aware TypeScript client for any UCP-compliant server | [![GitHub](https://img.shields.io/github/stars/OmnixHQ/ucp-client?style=flat-square&color=d4a843)](https://github.com/OmnixHQ/ucp-client) |
+<div align="center">
+  <a href="https://github.com/OmnixHQ/omnix-gateway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmnixHQ&repo=omnix-gateway&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&icon_color=d4a843&text_color=8a8a8e" alt="Omnix Gateway — Universal Commerce Protocol Gateway" />
+  </a>
+  <a href="https://github.com/OmnixHQ/omnix-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmnixHQ&repo=omnix-agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&icon_color=d4a843&text_color=8a8a8e" alt="Omnix Agent — AI shopping agent with Claude + UCP" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/OmnixHQ/ucp-js-sdk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmnixHQ&repo=ucp-js-sdk&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&icon_color=d4a843&text_color=8a8a8e" alt="UCP JS SDK — TypeScript types and Zod schemas for UCP" />
+  </a>
+  <a href="https://github.com/OmnixHQ/ucp-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmnixHQ&repo=ucp-client&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&icon_color=d4a843&text_color=8a8a8e" alt="UCP Client — TypeScript client for UCP-compliant servers" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://star-history.com/#OmnixHQ/omnix-gateway&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=OmnixHQ/omnix-gateway&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=OmnixHQ/omnix-gateway&type=Date" />
+      <img alt="Omnix Gateway star history chart" src="https://api.star-history.com/svg?repos=OmnixHQ/omnix-gateway&type=Date" width="600" />
+    </picture>
+  </a>
+</div>
 
 ---
 
-## 🎓 Adobe Commerce Certifications
+## Adobe Commerce Certifications
 
 The highest level in the Adobe certification program is **Adobe Subject Matter Expert — Adobe Commerce Architect Master**. To earn it, you first pass the **Adobe Certified Master — Adobe Commerce Architect** exam — a credential held by only ~40 people worldwide. I hold both, along with two Expert-level certifications.
 
@@ -58,7 +92,7 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 
 ---
 
-## ⚡ Stack
+## Stack
 
 <div align="center">
 
@@ -91,7 +125,7 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -110,24 +144,37 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 
 <br/>
 
-<a href="https://github.com/artemii-karkusha">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&bg_color=0d1117&color=8a8a8e&line=d4a843&point=e8e6e3&area=true&area_color=d4a843&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&bg_color=ffffff&color=333333&line=b8860b&point=333333&area=true&area_color=f5e6c8&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&bg_color=0d1117&color=8a8a8e&line=d4a843&point=e8e6e3&area=true&area_color=d4a843&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph" alt="Artemii Karkusha's Contribution Graph" width="700"/>
-</a>
+</picture>
 
 </div>
 
 ---
 
-## 🧩 Selected Open Source
+## GitHub Trophies
 
-| Project | Description |
-|---------|-------------|
-| [**AdobeCommercePreparingToCertification**](https://github.com/artemii-karkusha/AdobeCommercePreparingToCertification) | Structured knowledge base for Adobe Commerce architecture and the AD0-E717 certification |
-| [**DesignPatterns**](https://github.com/artemii-karkusha/DesignPatterns) | GoF patterns in PHP, grounded in real Magento and Symfony usage |
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=artemii-karkusha&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" width="700"/>
+</div>
 
 ---
 
-## 💬 What I Focus On
+## Writing
+
+I write about integration architecture, commerce protocols, and enterprise system design.
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Read_on_integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
+
+</div>
+
+---
+
+## What I Focus On
 
 - **Enterprise B2B integrations** — full cycle across manufacturing, wholesale, distribution, retail chains, and healthcare: ERP sync, PIM to commerce, order management, customer-specific pricing, multi-warehouse inventory
 - **Integration platform architecture** — at Atwix I lead a universal platform connecting ERP, CRM, and commerce across multi-brand, multi-market deployments
@@ -138,9 +185,7 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 
 <div align="center">
 
-**📍 Bratislava, Slovakia · [@Atwix](https://github.com/Atwix) · [Momentum Group s.r.o.](https://getomnix.dev)**
-
-<img src="https://komarev.com/ghpvc/?username=artemii-karkusha&color=d4a843&style=flat-square&label=Profile+Views" alt="Profile views"/>
+**Bratislava, Slovakia -- [@Atwix](https://github.com/Atwix) -- [Momentum Group s.r.o.](https://getomnix.dev)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:d4a843&height=100&section=footer" width="100%"/>
 
