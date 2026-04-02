@@ -6,11 +6,11 @@
 
 <br/>
 
-![](https://img.shields.io/badge/4h_→_26min-d4a843?style=for-the-badge)
-![](https://img.shields.io/badge/250M+_events-1a1b27?style=for-the-badge&labelColor=1a1b27)
-![](https://img.shields.io/badge/75K_users/min-d4a843?style=for-the-badge)
-![](https://img.shields.io/badge/1.5M_products-1a1b27?style=for-the-badge&labelColor=1a1b27)
-![](https://img.shields.io/badge/18_worldwide_websites-d4a843?style=for-the-badge)
+![](https://img.shields.io/badge/12+_years-d4a843?style=for-the-badge)
+![](https://img.shields.io/badge/50+_projects-1a1b27?style=for-the-badge&labelColor=1a1b27)
+![](https://img.shields.io/badge/100+_systems-d4a843?style=for-the-badge)
+![](https://img.shields.io/badge/18_websites-1a1b27?style=for-the-badge&labelColor=1a1b27)
+![](https://img.shields.io/badge/30+_team-d4a843?style=for-the-badge)
 ![](https://img.shields.io/badge/5+_countries-1a1b27?style=for-the-badge&labelColor=1a1b27)
 
 <br/>
@@ -169,17 +169,6 @@ I write about the hard parts of enterprise integration — the failures, the pat
 [![Read more on integration-maestro.com](https://img.shields.io/badge/Read_more_on_integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
 
 </div>
-
----
-
-## Track Record
-
-| | |
-|:---|:---|
-| **Pipeline Optimization** | Redesigned a feed queue from 4+ hours to 26 minutes during Black Friday / Cyber Monday — 75K users/min, 250M+ events processed |
-| **Large-Scale Catalog Sync** | Built systems processing 1.5M product updates in a single cycle across multi-market B2B deployments |
-| **Worldwide Architecture** | Supported 18 worldwide-level websites in parallel as Solution Architect across 5+ countries |
-| **Protocol Design** | Designing UCP as the open standard for commerce-to-AI communication |
 
 ---
 
