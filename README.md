@@ -144,9 +144,9 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&bg_color=0d1117&color=8a8a8e&line=d4a843&point=e8e6e3&area=true&area_color=d4a843&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&bg_color=ffffff&color=333333&line=b8860b&point=333333&area=true&area_color=f5e6c8&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&bg_color=0d1117&color=8a8a8e&line=d4a843&point=e8e6e3&area=true&area_color=d4a843&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph" alt="Artemii Karkusha's Contribution Graph" width="700"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&days=90&bg_color=0d1117&color=8a8a8e&line=d4a843&point=e8e6e3&area=true&area_color=d4a843&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph%20(90%20days)" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&days=90&bg_color=ffffff&color=333333&line=b8860b&point=333333&area=true&area_color=f5e6c8&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph%20(90%20days)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&days=90&bg_color=0d1117&color=8a8a8e&line=d4a843&point=e8e6e3&area=true&area_color=d4a843&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph%20(90%20days)" alt="Artemii Karkusha's Contribution Graph" width="700"/>
 </picture>
 
 </div>
