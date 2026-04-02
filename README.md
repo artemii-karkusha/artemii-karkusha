@@ -129,10 +129,10 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 <div align="center">
 
 <a href="https://github.com/artemii-karkusha">
-  <img src="https://github-readme-stats.vercel.app/api?username=artemii-karkusha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&icon_color=d4a843&text_color=8a8a8e&ring_color=d4a843" alt="Artemii Karkusha GitHub stats — stars, commits, PRs, and issues" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=artemii-karkusha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&icon_color=d4a843&text_color=8a8a8e&ring_color=d4a843&cache_seconds=86400" alt="Artemii Karkusha GitHub stats — stars, commits, PRs, and issues" height="170"/>
 </a>
 <a href="https://github.com/artemii-karkusha">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemii-karkusha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&text_color=8a8a8e" alt="Artemii Karkusha most used programming languages on GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemii-karkusha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4a843&text_color=8a8a8e&cache_seconds=86400" alt="Artemii Karkusha most used programming languages on GitHub" height="170"/>
 </a>
 
 <br/>
@@ -149,14 +149,6 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=artemii-karkusha&bg_color=0d1117&color=8a8a8e&line=d4a843&point=e8e6e3&area=true&area_color=d4a843&hide_border=true&custom_title=Artemii%20Karkusha%27s%20Contribution%20Graph" alt="Artemii Karkusha's Contribution Graph" width="700"/>
 </picture>
 
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=artemii-karkusha&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" width="700"/>
 </div>
 
 ---
