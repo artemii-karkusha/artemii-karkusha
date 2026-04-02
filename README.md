@@ -2,29 +2,23 @@
 
 <h1><a href="https://integration-maestro.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=D4A843&center=true&vCenter=true&repeat=false&width=420&lines=Artemii+Karkusha" alt="Artemii Karkusha" /></a></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A8A8E&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert" alt="Typing SVG — Senior Solution Architect, UCP Protocol Designer, Commerce Integration Expert" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=artemii-karkusha&color=d4a843&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/artemii-karkusha?style=for-the-badge&color=d4a843&labelColor=0d1117" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/artemii-karkusha?style=for-the-badge&color=d4a843&labelColor=0d1117" alt="GitHub stars"/>
-
-<br/><br/>
-
-[![Website](https://img.shields.io/badge/integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemiy-karkusha/)
-[![Omnix](https://img.shields.io/badge/Omnix-getomnix.dev-1a1b27?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGE4NDMiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjxwYXRoIGQ9Ik0yIDE3bDEwIDUgMTAtNSIvPjxwYXRoIGQ9Ik0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=d4a843)](https://getomnix.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemii.karkusha@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A8A8E&center=true&vCenter=true&width=650&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert" alt="Typing SVG — Senior Solution Architect, UCP Protocol Designer, Commerce Integration Expert" />
 
 <br/>
 
-![](https://img.shields.io/badge/4h_→_26min-d4a843?style=flat-square)
-![](https://img.shields.io/badge/250M+_events-555555?style=flat-square)
-![](https://img.shields.io/badge/75K_users/min-d4a843?style=flat-square)
-![](https://img.shields.io/badge/1.5M_products-555555?style=flat-square)
-![](https://img.shields.io/badge/18_worldwide_websites-d4a843?style=flat-square)
-![](https://img.shields.io/badge/5+_countries-555555?style=flat-square)
+![](https://img.shields.io/badge/4h_→_26min-d4a843?style=for-the-badge)
+![](https://img.shields.io/badge/250M+_events-1a1b27?style=for-the-badge&labelColor=1a1b27)
+![](https://img.shields.io/badge/75K_users/min-d4a843?style=for-the-badge)
+![](https://img.shields.io/badge/1.5M_products-1a1b27?style=for-the-badge&labelColor=1a1b27)
+![](https://img.shields.io/badge/18_worldwide_websites-d4a843?style=for-the-badge)
+![](https://img.shields.io/badge/5+_countries-1a1b27?style=for-the-badge&labelColor=1a1b27)
+
+<br/>
+
+[![Website](https://img.shields.io/badge/integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemiy-karkusha/)
+[![Omnix](https://img.shields.io/badge/Omnix-1a1b27?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGE4NDMiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjxwYXRoIGQ9Ik0yIDE3bDEwIDUgMTAtNSIvPjxwYXRoIGQ9Ik0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=d4a843)](https://getomnix.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemii.karkusha@gmail.com)
 
 </div>
 
