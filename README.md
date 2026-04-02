@@ -155,12 +155,16 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 
 I write about the hard parts of enterprise integration — the failures, the patterns, and the protocols.
 
-- [A 2 AM Integration Failure That Changed How I Design Systems](https://integration-maestro.com/articles/a-2-am-integration-failure-changed-how-i-design-systems)
-- [How Slow ERP Sync Silently Kills eCommerce Revenue](https://integration-maestro.com/articles/how-slow-erp-sync-silently-kills-ecommerce-revenue)
-- [Idempotency: The #1 Rule of Safe Integrations Teams Ignore](https://integration-maestro.com/articles/idempotency-safe-integrations-rule)
-- [REST vs SOAP vs GraphQL: Which Integration Protocol Wins in 2025?](https://integration-maestro.com/articles/rest-vs-soap-vs-graphql-which-integration-protocol-wins-in-2025)
-
 <div align="center">
+
+| | Article |
+|:---:|:---|
+| ![](https://img.shields.io/badge/Architecture-0d1117?style=flat-square&labelColor=d4a843) | [**A 2 AM Integration Failure That Changed How I Design Systems**](https://integration-maestro.com/articles/a-2-am-integration-failure-changed-how-i-design-systems) |
+| ![](https://img.shields.io/badge/ERP-0d1117?style=flat-square&labelColor=d4a843) | [**How Slow ERP Sync Silently Kills eCommerce Revenue**](https://integration-maestro.com/articles/how-slow-erp-sync-silently-kills-ecommerce-revenue) |
+| ![](https://img.shields.io/badge/Patterns-0d1117?style=flat-square&labelColor=d4a843) | [**Idempotency: The #1 Rule of Safe Integrations Teams Ignore**](https://integration-maestro.com/articles/idempotency-safe-integrations-rule) |
+| ![](https://img.shields.io/badge/Protocols-0d1117?style=flat-square&labelColor=d4a843) | [**REST vs SOAP vs GraphQL: Which Integration Protocol Wins in 2025?**](https://integration-maestro.com/articles/rest-vs-soap-vs-graphql-which-integration-protocol-wins-in-2025) |
+
+<br/>
 
 [![Read more on integration-maestro.com](https://img.shields.io/badge/Read_more_on_integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
 
@@ -172,50 +176,23 @@ I write about the hard parts of enterprise integration — the failures, the pat
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-![4h → 26min](https://img.shields.io/badge/4h_→_26min-d4a843?style=for-the-badge)
-
-**Pipeline Optimization**
-
-Redesigned a feed queue during Black Friday / Cyber Monday handling 75K users/min and 250M+ events
-
-</td>
-<td align="center" width="50%">
-
-![1.5M products](https://img.shields.io/badge/1.5M_products-d4a843?style=for-the-badge)
-
-**Large-Scale Catalog Sync**
-
-Built systems processing 1.5M product updates in a single cycle across multi-market B2B deployments
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-![100K+ SKUs · 5+ countries](https://img.shields.io/badge/100K+_SKUs_·_5+_countries-d4a843?style=for-the-badge)
-
-**High-Volume Integrations**
-
-Thousands of orders/day with ERP, PIM, and commerce kept in sync across markets
-
-</td>
-<td align="center" width="50%">
-
-![UCP](https://img.shields.io/badge/Universal_Commerce_Protocol-d4a843?style=for-the-badge)
-
-**Protocol Design**
-
-Designing UCP as the open standard for commerce-to-AI communication
-
-</td>
-</tr>
-</table>
+![](https://img.shields.io/badge/4h_→_26min-d4a843?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/250M+_events-1a1b27?style=for-the-badge&labelColor=1a1b27)
+![](https://img.shields.io/badge/75K_users/min-d4a843?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/1.5M_products-1a1b27?style=for-the-badge&labelColor=1a1b27)
+![](https://img.shields.io/badge/100K+_SKUs-d4a843?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/5+_countries-1a1b27?style=for-the-badge&labelColor=1a1b27)
 
 </div>
+
+&nbsp;
+
+| | |
+|:---|:---|
+| **Pipeline Optimization** | Redesigned a feed queue from 4+ hours to 26 minutes during Black Friday / Cyber Monday — 75K users/min, 250M+ events processed |
+| **Large-Scale Catalog Sync** | Built systems processing 1.5M product updates in a single cycle across multi-market B2B deployments |
+| **High-Volume Integrations** | Thousands of orders/day, 100K+ SKUs, 5+ countries — ERP, PIM, and commerce kept in sync |
+| **Protocol Design** | Designing UCP as the open standard for commerce-to-AI communication |
 
 ---
 
