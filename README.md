@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- TODO: Add your cartoon avatar to assets/avatar.png — this image will show broken until the file exists -->
-<img src="assets/avatar.png" alt="Artemii Karkusha" width="200"/>
-
 <h1><a href="https://integration-maestro.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=D4A843&center=true&vCenter=true&repeat=false&width=420&lines=Artemii+Karkusha" alt="Artemii Karkusha" /></a></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A8A8E&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert" alt="Typing SVG — Senior Solution Architect, UCP Protocol Designer, Commerce Integration Expert" />
