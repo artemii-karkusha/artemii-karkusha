@@ -24,7 +24,7 @@
 
 ## About Me
 
-Senior Solution Architect based in **Bratislava, Slovakia**. 12 years in enterprise integrations — 50+ projects delivered, 20+ systems connected, leading teams of 30+ engineers, tech leads, and QAs. Still shipping code daily.
+Senior Solution Architect based in **Bratislava, Slovakia**. 12 years in enterprise integrations — 50+ projects delivered, 100+ systems connected, leading teams of 30+ engineers, tech leads, and QAs. Still shipping code daily.
 
 I connect ERP, PIM, and commerce systems for enterprise B2B — manufacturing, wholesale, distribution, retail chains, healthcare. Complex catalogs, customer-specific pricing, multi-market deployments across 5+ countries. I make it work across **Adobe Commerce**, **Shopware 6**, and **Shopify**.
 
