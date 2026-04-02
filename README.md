@@ -5,7 +5,7 @@
 
 <h1><a href="https://integration-maestro.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=D4A843&center=true&vCenter=true&repeat=false&width=420&lines=Artemii+Karkusha" alt="Artemii Karkusha" /></a></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A8A8E&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert;Building+Omnix+%E2%80%94+Agentic+Commerce+Middleware" alt="Typing SVG — Senior Solution Architect, UCP Protocol Designer, Commerce Integration Expert" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A8A8E&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert" alt="Typing SVG — Senior Solution Architect, UCP Protocol Designer, Commerce Integration Expert" />
 
 <br/><br/>
 
@@ -24,21 +24,19 @@
 
 ## About Me
 
-Senior Solution Architect based in **Bratislava, Slovakia**. 12 years building enterprise integrations — and still shipping code daily.
+Senior Solution Architect based in **Bratislava, Slovakia**. 12 years in enterprise integrations — 50+ projects delivered, 20+ systems connected, leading teams of 30+ engineers, tech leads, and QAs. Still shipping code daily.
 
-I connect ERP, PIM, and commerce systems for enterprise B2B. My work covers the full spectrum: manufacturing, wholesale, distribution, retail chains, healthcare — any business where complex catalogs, customer-specific pricing, and multi-system data flows make commerce hard. I make it work across **Adobe Commerce**, **Shopware 6**, and **Shopify**.
+I connect ERP, PIM, and commerce systems for enterprise B2B — manufacturing, wholesale, distribution, retail chains, healthcare. Complex catalogs, customer-specific pricing, multi-market deployments across 5+ countries. I make it work across **Adobe Commerce**, **Shopware 6**, and **Shopify**.
 
-When I'm not architecting enterprise systems at [Atwix](https://github.com/Atwix), I'm building **[Omnix](https://getomnix.dev)** — an agentic commerce middleware that connects any e-commerce store to any AI agent through the **Universal Commerce Protocol (UCP)**.
+At [Atwix](https://github.com/Atwix) I lead integration architecture. On my own time I'm building **[Omnix](https://getomnix.dev)** — an agentic commerce middleware that connects any e-commerce store to any AI agent through the **Universal Commerce Protocol (UCP)**.
 
-I write and consult on integration architecture at [integration-maestro.com](https://integration-maestro.com).
+I write about integration architecture at [integration-maestro.com](https://integration-maestro.com).
 
 ---
 
 ## Currently
 
 - **Architecting** a PHP-to-Node.js microservices migration (GraphQL Gateway -> full platform transition)
-- **Building** [Omnix](https://getomnix.dev) — the universal adapter for commerce x AI
-- **Designing** the Universal Commerce Protocol (UCP) specification
 - **Integrating** MCP servers with Infor/Sirius ERP for B2B distribution
 - **Learning** advanced GraphQL federation, Symfony 7, and distributed systems patterns
 
@@ -46,7 +44,7 @@ I write and consult on integration architecture at [integration-maestro.com](htt
 
 ## Omnix Ecosystem
 
-> **Omnix** — Agentic commerce middleware connecting Magento, Shopware, Shopify, SAP, and custom backends to AI agents through the Universal Commerce Protocol.
+> Connect any commerce backend to any AI agent. [Learn about UCP ->](https://getomnix.dev)
 
 <div align="center">
   <a href="https://github.com/OmnixHQ/omnix-gateway">
@@ -155,28 +153,33 @@ The highest level in the Adobe certification program is **Adobe Subject Matter E
 
 ## Writing
 
-I write about integration architecture, commerce protocols, and enterprise system design.
+I write about the hard parts of enterprise integration — the failures, the patterns, and the protocols.
+
+- [A 2 AM Integration Failure That Changed How I Design Systems](https://integration-maestro.com/articles/a-2-am-integration-failure-changed-how-i-design-systems)
+- [How Slow ERP Sync Silently Kills eCommerce Revenue](https://integration-maestro.com/articles/how-slow-erp-sync-silently-kills-ecommerce-revenue)
+- [Idempotency: The #1 Rule of Safe Integrations Teams Ignore](https://integration-maestro.com/articles/idempotency-safe-integrations-rule)
+- [REST vs SOAP vs GraphQL: Which Integration Protocol Wins in 2025?](https://integration-maestro.com/articles/rest-vs-soap-vs-graphql-which-integration-protocol-wins-in-2025)
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Read_on_integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
+[![Read more on integration-maestro.com](https://img.shields.io/badge/Read_more_on_integration--maestro.com-d4a843?style=for-the-badge&logo=google-chrome&logoColor=white)](https://integration-maestro.com)
 
 </div>
 
 ---
 
-## What I Focus On
+## Track Record
 
-- **Enterprise B2B integrations** — full cycle across manufacturing, wholesale, distribution, retail chains, and healthcare: ERP sync, PIM to commerce, order management, customer-specific pricing, multi-warehouse inventory
-- **Integration platform architecture** — at Atwix I lead a universal platform connecting ERP, CRM, and commerce across multi-brand, multi-market deployments
-- **Performance at scale** — redesigned a feed queue pipeline from 4+ hours to 26 minutes during BFCM. Under pressure, with no downtime window
-- **Protocol design** — designing UCP to be the open standard for commerce-to-AI communication
+- **Pipeline optimization** — redesigned a feed queue from 4+ hours to 26 minutes during BFCM, handling 75,000 users/minute and 250M+ events
+- **Large-scale catalog sync** — built systems processing 1.5M product updates in a single cycle across multi-market B2B deployments
+- **High-volume integrations** — thousands of orders/day, 100K+ SKUs, 5+ countries, with ERP/PIM/commerce kept in sync
+- **Protocol design** — designing UCP as the open standard for commerce-to-AI communication
 
 ---
 
 <div align="center">
 
-**Bratislava, Slovakia -- [@Atwix](https://github.com/Atwix) -- [Momentum Group s.r.o.](https://getomnix.dev)**
+**Bratislava, Slovakia · [@Atwix](https://github.com/Atwix) · [Momentum Group s.r.o.](https://getomnix.dev)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:d4a843&height=100&section=footer" width="100%"/>
 
