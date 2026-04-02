@@ -1,14 +1,13 @@
 <div align="center">
 
 <!-- TODO: Add your cartoon avatar to assets/avatar.png — this image will show broken until the file exists -->
-<img src="assets/avatar.png" alt="Artemii Karkusha" width="180"/>
+<img src="assets/avatar.png" alt="Artemii Karkusha" width="200"/>
 
-<!-- Custom SVG Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:d4a843&height=220&section=header&text=Artemii%20Karkusha&fontSize=42&fontColor=e8e6e3&fontAlignY=35&desc=Senior%20Solution%20Architect%20%7C%20Commerce%20Integration%20%7C%20UCP%20Protocol%20Designer&descSize=16&descColor=8a8a8e&descAlignY=55&animation=fadeIn" width="100%"/>
+<h1><a href="https://integration-maestro.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=D4A843&center=true&vCenter=true&repeat=false&width=420&lines=Artemii+Karkusha" alt="Artemii Karkusha" /></a></h1>
 
-<a href="https://github.com/artemii-karkusha"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4A843&center=true&vCenter=true&width=500&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert;Building+Omnix" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A8A8E&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect;UCP+Protocol+Designer;Commerce+Integration+Expert;Building+Omnix+%E2%80%94+Agentic+Commerce+Middleware" alt="Typing SVG — Senior Solution Architect, UCP Protocol Designer, Commerce Integration Expert" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=artemii-karkusha&color=d4a843&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/artemii-karkusha?style=for-the-badge&color=d4a843&labelColor=0d1117" alt="GitHub followers"/>
