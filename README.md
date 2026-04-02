@@ -170,10 +170,52 @@ I write about the hard parts of enterprise integration — the failures, the pat
 
 ## Track Record
 
-- **Pipeline optimization** — redesigned a feed queue from 4+ hours to 26 minutes during BFCM, handling 75,000 users/minute and 250M+ events
-- **Large-scale catalog sync** — built systems processing 1.5M product updates in a single cycle across multi-market B2B deployments
-- **High-volume integrations** — thousands of orders/day, 100K+ SKUs, 5+ countries, with ERP/PIM/commerce kept in sync
-- **Protocol design** — designing UCP as the open standard for commerce-to-AI communication
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+![4h → 26min](https://img.shields.io/badge/4h_→_26min-d4a843?style=for-the-badge)
+
+**Pipeline Optimization**
+
+Redesigned a feed queue during Black Friday / Cyber Monday handling 75K users/min and 250M+ events
+
+</td>
+<td align="center" width="50%">
+
+![1.5M products](https://img.shields.io/badge/1.5M_products-d4a843?style=for-the-badge)
+
+**Large-Scale Catalog Sync**
+
+Built systems processing 1.5M product updates in a single cycle across multi-market B2B deployments
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+![100K+ SKUs · 5+ countries](https://img.shields.io/badge/100K+_SKUs_·_5+_countries-d4a843?style=for-the-badge)
+
+**High-Volume Integrations**
+
+Thousands of orders/day with ERP, PIM, and commerce kept in sync across markets
+
+</td>
+<td align="center" width="50%">
+
+![UCP](https://img.shields.io/badge/Universal_Commerce_Protocol-d4a843?style=for-the-badge)
+
+**Protocol Design**
+
+Designing UCP as the open standard for commerce-to-AI communication
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
